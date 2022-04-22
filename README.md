@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrArdaix
-- 👀 I’m interested in learning Python.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in learning HTML, CSS, Javascript.
+- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on any project to improve my skills.
 - 📫 How to reach me: cardaixx@gmail.com
 
